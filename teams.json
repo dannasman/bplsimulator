@@ -1,0 +1,222 @@
+{
+    "MFC": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 7771,
+        "shotsOnTarget": 2732,
+        "xGoalGames": [2, 6, 9, 10, 1, 2, 3, 0, 0, 0, 0]
+    },
+    "MUN": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 7651,
+        "shotsOnTarget": 2731,
+        "xGoalGames": [4, 7, 13, 6, 2, 1, 0, 0, 0, 0, 0]
+    },
+    "TOT": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 7867,
+        "shotsOnTarget": 2700,
+        "xGoalGames": [3, 12, 8, 7, 1, 1, 1, 0, 0, 0, 0]
+    },
+    "CFC": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 8418,
+        "shotsOnTarget": 2840,
+        "xGoalGames": [9, 5, 12, 5, 2, 1, 0, 0, 0, 0, 0]
+    },
+    "LFC": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 8381,
+        "shotsOnTarget": 2810,
+        "xGoalGames": [3, 9, 8, 6, 6, 2, 0, 0, 0, 0, 0]
+    },
+    "ARS": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 7740,
+        "shotsOnTarget": 2801,
+        "xGoalGames": [3, 7, 14, 4, 2, 3, 0, 0, 0, 0, 0]
+    },
+    "BUR": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 1991,
+        "shotsOnTarget": 633,
+        "xGoalGames": [10, 10, 11, 2, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "EVE": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 6578,
+        "shotsOnTarget": 2229,
+        "xGoalGames": [9, 10, 11, 3, 0, 1, 0, 0, 0, 0, 0]
+    },
+    "LEI": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 2298,
+        "shotsOnTarget": 772,
+        "xGoalGames": [6, 15, 9, 3, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "NEW": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 5198,
+        "shotsOnTarget": 1661,
+        "xGoalGames": [14, 11, 7, 2, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "BOU": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 1767,
+        "shotsOnTarget": 600,
+        "xGoalGames": [11, 8, 9, 2, 3, 1, 0, 0, 0, 0, 0]
+    },
+    "CRY": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 2670,
+        "shotsOnTarget": 850,
+        "xGoalGames": [10, 13, 7, 3, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "WAT": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 2094,
+        "shotsOnTarget": 680,
+        "xGoalGames": [9, 10, 8, 4, 1, 1, 0, 0, 0, 0, 0]
+    },
+    "WHU": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 5809,
+        "shotsOnTarget": 1840,
+        "xGoalGames": [14, 8, 4, 6, 2, 0, 0, 0, 0, 0, 0]
+    },
+    "BHA": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 718,
+        "shotsOnTarget": 217,
+        "xGoalGames": [11, 14, 6, 2, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "HUD": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 727,
+        "shotsOnTarget": 217,
+        "xGoalGames": [18, 15, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "FUL": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 4280,
+        "shotsOnTarget": 1400,
+        "xGoalGames": [13, 15, 3, 1, 2, 0, 0, 0, 0, 0, 0]
+    },
+    "SOU": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 3495,
+        "shotsOnTarget": 1149,
+        "xGoalGames": [9, 12, 9, 3, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "CAR": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 784,
+        "shotsOnTarget": 228,
+        "xGoalGames": [15, 10, 8, 0, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "WOL": {
+        "matchesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0,
+        "shots": 1774,
+        "shotsOnTarget": 542,
+        "xGoalGames": [9, 12, 8, 3, 1, 0, 0, 0, 0, 0, 0]
+    }
+}
